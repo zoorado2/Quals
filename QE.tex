@@ -120,7 +120,7 @@ A notion of computability ought to chart the limits of what can and cannot be co
 \end{enumerate}
 In all of these models, the canonical inputs are natural numbers. The question of what happens when we allow larger inputs is a very natural one, and there have been numerous attempts at generalising models among \ref{ct1} to \ref{ct3} to account for this allowance.
 
-From the perspective of recursion theory, where the structure of Turing degrees under Turing reducibility and the jump operator is the main object study, leading candidates include $\alpha$-recursion and $E$-recursion. Both paradigms depend on models of computation that generalises \ref{ct1} with schemata on arbitrary sets (see e.g. \cite{takeuti} and \cite{normann}). These schemata give rise to analogues of important results in classical recursion theory, on sets that can be much larger than reals. However, neither $\alpha$-recursion nor $E$-recursion is known to provide a well-behaved measure of relative computability across all sets --- they typically work only with subsets of some set model of (a weak) set theory.
+From the perspective of recursion theory, where the structure of Turing degrees under Turing reducibility and the jump operator is the main object study, leading candidates include $\alpha$-recursion and $E$-recursion. Both paradigms depend on models of computation that generalises \ref{ct1} with schemata on arbitrary sets (see e.g. \cite{takeuti} and \cite{normann}). These schemata give rise to analogues of important results in classical recursion theory, on sets that can be much larger than reals. However, $\alpha$-recursion is not known to provide a well-behaved measure of relative computability across all sets, whereas $E$-recursion is not known to behave well when restricted to subsets of an arbitrary model of (a weaker) set theory.
 
 From the perspective of ``computer as a machine'', we have Koepke's ordinal Turing machines (see \cite{koepke1}). Ordinal Turing machines are a generalisation of \ref{ct3}: they work like standard Turing machines, except their tapes are now $ORD$-length and they can each refer to finitely many ordinals as parameters. Augmenting these machines with set oracles allows one to define relative computability on arbitrary sets in the same way real oracles are used to define Turing reducibility on the reals; such a definition seems to not suffer from any unwanted artefacts. However, natural restrictions of this relative computability relation to sets may result in a lack of transitivity (Theorem 20 of \cite{koepke2}).
 
@@ -320,7 +320,7 @@ However, as members of $S(\mathfrak{M})$ are allowed to freely interpret the $\u
 
 Difficulty \ref{diff29} tells us $S(\mathfrak{M})$ should depend not just on $b(\mathfrak{M})$ and $\sigma(\mathfrak{M})$, but also on how symbols in $\sigma(\mathfrak{M})$ are to be interpreted in $b(\mathfrak{M})$. This leads us to the objects of focus in the next subsection.
 
-\subsection{Theories with Constraints in Interpretation}
+\subsection{Theories with Constraints in Interpretation}\label{ssect23}
 
 \emph{Theories with constraints in interpretation} (henceforth, \emph{TCI}s) were conceived in \cite{myself} as a convenient means of looking at generic objects produced by set-theoretic forcing. Their utility in that respect will be clearer in the next section. Nevertheless, we introduce them here so that they can be used to constrain the possible states of an ASM. 
 
@@ -1983,7 +1983,7 @@ Let us choose a definable function $F$ as in the proof of Corollary \ref{cor324}
 
 \subsection{More on TCIs}
 
-Before we get to the meat of this section, some prerequisites about TCIs need to be fulfilled. We reserve this subsection for that purpose.  
+Recall that TCIs have been defined in Subsection \ref{ssect23}. Before we get to the meat of this section, further prerequisites about TCIs need to be fulfilled. We reserve this subsection for that purpose.  
 
 Let us first define a notion of complexity on TCIs. This will help us subsequently classify method definitions according to their complexity. 
 
