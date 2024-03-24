@@ -1,0 +1,560 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{spector}{article}{}
+      \name{author}{1}{}{%
+        {{hash=519ebee90a6b8f5785db96e797b35ce8}{%
+           family={Spector},
+           familyi={S\bibinitperiod},
+           given={Clifford},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{519ebee90a6b8f5785db96e797b35ce8}
+      \strng{fullhash}{519ebee90a6b8f5785db96e797b35ce8}
+      \strng{bibnamehash}{519ebee90a6b8f5785db96e797b35ce8}
+      \strng{authorbibnamehash}{519ebee90a6b8f5785db96e797b35ce8}
+      \strng{authornamehash}{519ebee90a6b8f5785db96e797b35ce8}
+      \strng{authorfullhash}{519ebee90a6b8f5785db96e797b35ce8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of mathematics}
+      \field{number}{3}
+      \field{title}{On degrees of recursive unsolvability}
+      \field{volume}{64}
+      \field{year}{1956}
+      \field{pages}{581\bibrangedash 592}
+      \range{pages}{12}
+    \endentry
+    \entry{takeuti}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9a6f44fd63be15b0b390d3447a3f47e7}{%
+           family={Takeuti},
+           familyi={T\bibinitperiod},
+           given={Gaisi},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Mathematical Society of Japan}%
+      }
+      \strng{namehash}{9a6f44fd63be15b0b390d3447a3f47e7}
+      \strng{fullhash}{9a6f44fd63be15b0b390d3447a3f47e7}
+      \strng{bibnamehash}{9a6f44fd63be15b0b390d3447a3f47e7}
+      \strng{authorbibnamehash}{9a6f44fd63be15b0b390d3447a3f47e7}
+      \strng{authornamehash}{9a6f44fd63be15b0b390d3447a3f47e7}
+      \strng{authorfullhash}{9a6f44fd63be15b0b390d3447a3f47e7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Mathematical Society of Japan}
+      \field{number}{2}
+      \field{title}{On the recursive functions of ordinal numbers}
+      \field{volume}{12}
+      \field{year}{1960}
+      \field{pages}{119\bibrangedash 128}
+      \range{pages}{10}
+    \endentry
+    \entry{cohen1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3676bd8b5a6758a014b490225ec91475}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3676bd8b5a6758a014b490225ec91475}
+      \strng{fullhash}{3676bd8b5a6758a014b490225ec91475}
+      \strng{bibnamehash}{3676bd8b5a6758a014b490225ec91475}
+      \strng{authorbibnamehash}{3676bd8b5a6758a014b490225ec91475}
+      \strng{authornamehash}{3676bd8b5a6758a014b490225ec91475}
+      \strng{authorfullhash}{3676bd8b5a6758a014b490225ec91475}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proc. Nat. Acad. Sci. U.S.A.}
+      \field{title}{The independence of the continuum hypothesis}
+      \field{volume}{50}
+      \field{year}{1963}
+      \field{pages}{1143\bibrangedash 1148}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.50.6.1143
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1073/pnas.50.6.1143
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1073/pnas.50.6.1143
+      \endverb
+    \endentry
+    \entry{sacksforcing}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=227b74c2ef35ef2de30d1af50e56c315}{%
+           family={Sacks},
+           familyi={S\bibinitperiod},
+           given={Gerald\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{227b74c2ef35ef2de30d1af50e56c315}
+      \strng{fullhash}{227b74c2ef35ef2de30d1af50e56c315}
+      \strng{bibnamehash}{227b74c2ef35ef2de30d1af50e56c315}
+      \strng{authorbibnamehash}{227b74c2ef35ef2de30d1af50e56c315}
+      \strng{authornamehash}{227b74c2ef35ef2de30d1af50e56c315}
+      \strng{authorfullhash}{227b74c2ef35ef2de30d1af50e56c315}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Axiomatic set theory}
+      \field{title}{Forcing with perfect closed sets}
+      \field{volume}{1}
+      \field{year}{1971}
+      \field{pages}{331\bibrangedash 355}
+      \range{pages}{25}
+    \endentry
+    \entry{shoenfield}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=03459e076830692bd4e7b5ff86e8f109}{%
+           family={Shoenfield},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {AMS Providence, RI}%
+      }
+      \strng{namehash}{03459e076830692bd4e7b5ff86e8f109}
+      \strng{fullhash}{03459e076830692bd4e7b5ff86e8f109}
+      \strng{bibnamehash}{03459e076830692bd4e7b5ff86e8f109}
+      \strng{authorbibnamehash}{03459e076830692bd4e7b5ff86e8f109}
+      \strng{authornamehash}{03459e076830692bd4e7b5ff86e8f109}
+      \strng{authorfullhash}{03459e076830692bd4e7b5ff86e8f109}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Axiomatic set theory}
+      \field{number}{1}
+      \field{title}{Unramified forcing}
+      \field{volume}{13}
+      \field{year}{1971}
+      \field{pages}{357\bibrangedash 381}
+      \range{pages}{25}
+    \endentry
+    \entry{normann}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=b0dd7c3e287c74b1f8469d12700d705b}{%
+           family={Normann},
+           familyi={N\bibinitperiod},
+           given={Dag},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b0dd7c3e287c74b1f8469d12700d705b}
+      \strng{fullhash}{b0dd7c3e287c74b1f8469d12700d705b}
+      \strng{bibnamehash}{b0dd7c3e287c74b1f8469d12700d705b}
+      \strng{authorbibnamehash}{b0dd7c3e287c74b1f8469d12700d705b}
+      \strng{authornamehash}{b0dd7c3e287c74b1f8469d12700d705b}
+      \strng{authorfullhash}{b0dd7c3e287c74b1f8469d12700d705b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Studies in Logic and the Foundations of Mathematics}
+      \field{title}{Set recursion}
+      \field{volume}{94}
+      \field{year}{1978}
+      \field{pages}{303\bibrangedash 320}
+      \range{pages}{18}
+    \endentry
+    \entry{jensencoding}{book}{}
+      \name{author}{4}{}{%
+        {{hash=72caf39e4c7c05aff7168e88f61ceced}{%
+           family={Beller},
+           familyi={B\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0a17f66e1258ef6434363492def1ebaa}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+        {{hash=151df93042ebd4b62ec5e1f780b87f25}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Ronald\bibnamedelima Björn},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=d6b5383c0d96f4b170a0e76076616dad}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e321bb642bd541a79f5e4f67b5b567eb}
+      \strng{fullhash}{995d3dc377617c2b52978bb2a34bbab1}
+      \strng{bibnamehash}{e321bb642bd541a79f5e4f67b5b567eb}
+      \strng{authorbibnamehash}{e321bb642bd541a79f5e4f67b5b567eb}
+      \strng{authornamehash}{e321bb642bd541a79f5e4f67b5b567eb}
+      \strng{authorfullhash}{995d3dc377617c2b52978bb2a34bbab1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Coding the universe}
+      \field{volume}{47}
+      \field{year}{1982}
+    \endentry
+    \entry{gurevich}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d36b6995ab536537094bfe3e5596722b}{%
+           family={Gurevich},
+           familyi={G\bibinitperiod},
+           given={Yuri},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{d36b6995ab536537094bfe3e5596722b}
+      \strng{fullhash}{d36b6995ab536537094bfe3e5596722b}
+      \strng{bibnamehash}{d36b6995ab536537094bfe3e5596722b}
+      \strng{authorbibnamehash}{d36b6995ab536537094bfe3e5596722b}
+      \strng{authornamehash}{d36b6995ab536537094bfe3e5596722b}
+      \strng{authorfullhash}{d36b6995ab536537094bfe3e5596722b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Computational Logic (TOCL)}
+      \field{number}{1}
+      \field{title}{Sequential abstract-state machines capture sequential algorithms}
+      \field{volume}{1}
+      \field{year}{2000}
+      \field{pages}{77\bibrangedash 111}
+      \range{pages}{35}
+    \endentry
+    \entry{ittm}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d6e139e04e1ed1547b7e0315915d6822}{%
+           family={Hamkins},
+           familyi={H\bibinitperiod},
+           given={Joel\bibnamedelima David},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=2875d0e369b7ed8f7bdf510607c24e15}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{15ffa76e8367944f9ee855862aca7617}
+      \strng{fullhash}{15ffa76e8367944f9ee855862aca7617}
+      \strng{bibnamehash}{15ffa76e8367944f9ee855862aca7617}
+      \strng{authorbibnamehash}{15ffa76e8367944f9ee855862aca7617}
+      \strng{authornamehash}{15ffa76e8367944f9ee855862aca7617}
+      \strng{authorfullhash}{15ffa76e8367944f9ee855862aca7617}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Symbolic Logic}
+      \field{number}{2}
+      \field{title}{Infinite time Turing machines}
+      \field{volume}{65}
+      \field{year}{2000}
+      \field{pages}{567\bibrangedash 604}
+      \range{pages}{38}
+    \endentry
+    \entry{gurevichblass}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e4be97472702d5f94b6d5fd932ccedd9}{%
+           family={Blass},
+           familyi={B\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d36b6995ab536537094bfe3e5596722b}{%
+           family={Gurevich},
+           familyi={G\bibinitperiod},
+           given={Yuri},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{3e27bc1bd6e7ca1f0db409642615d708}
+      \strng{fullhash}{3e27bc1bd6e7ca1f0db409642615d708}
+      \strng{bibnamehash}{3e27bc1bd6e7ca1f0db409642615d708}
+      \strng{authorbibnamehash}{3e27bc1bd6e7ca1f0db409642615d708}
+      \strng{authornamehash}{3e27bc1bd6e7ca1f0db409642615d708}
+      \strng{authorfullhash}{3e27bc1bd6e7ca1f0db409642615d708}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Computational Logic (TOCL)}
+      \field{number}{4}
+      \field{title}{Abstract state machines capture parallel algorithms}
+      \field{volume}{4}
+      \field{year}{2003}
+      \field{pages}{578\bibrangedash 651}
+      \range{pages}{74}
+    \endentry
+    \entry{jech}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b8ddd852d7bc9bcd5d92f6c9c3251005}{%
+           family={Jech},
+           familyi={J\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b8ddd852d7bc9bcd5d92f6c9c3251005}
+      \strng{fullhash}{b8ddd852d7bc9bcd5d92f6c9c3251005}
+      \strng{bibnamehash}{b8ddd852d7bc9bcd5d92f6c9c3251005}
+      \strng{authorbibnamehash}{b8ddd852d7bc9bcd5d92f6c9c3251005}
+      \strng{authornamehash}{b8ddd852d7bc9bcd5d92f6c9c3251005}
+      \strng{authorfullhash}{b8ddd852d7bc9bcd5d92f6c9c3251005}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Set theory: The third millennium edition, revised and expanded}
+      \field{year}{2003}
+    \endentry
+    \entry{schindlerallsharpsexist}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ed64ae723b8c8488e982ed38c544d137}{%
+           family={Schindler},
+           familyi={S\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{ed64ae723b8c8488e982ed38c544d137}
+      \strng{fullhash}{ed64ae723b8c8488e982ed38c544d137}
+      \strng{bibnamehash}{ed64ae723b8c8488e982ed38c544d137}
+      \strng{authorbibnamehash}{ed64ae723b8c8488e982ed38c544d137}
+      \strng{authornamehash}{ed64ae723b8c8488e982ed38c544d137}
+      \strng{authorfullhash}{ed64ae723b8c8488e982ed38c544d137}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Logic Quarterly: Mathematical Logic Quarterly}
+      \field{number}{6}
+      \field{title}{Semi-proper forcing, remarkable cardinals, and Bounded Martin's Maximum}
+      \field{volume}{50}
+      \field{year}{2004}
+      \field{pages}{527\bibrangedash 532}
+      \range{pages}{6}
+    \endentry
+    \entry{koepke1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ec170b6fb91a830ea29c2dce7d13f9a9}{%
+           family={Koepke},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{ec170b6fb91a830ea29c2dce7d13f9a9}
+      \strng{fullhash}{ec170b6fb91a830ea29c2dce7d13f9a9}
+      \strng{bibnamehash}{ec170b6fb91a830ea29c2dce7d13f9a9}
+      \strng{authorbibnamehash}{ec170b6fb91a830ea29c2dce7d13f9a9}
+      \strng{authornamehash}{ec170b6fb91a830ea29c2dce7d13f9a9}
+      \strng{authorfullhash}{ec170b6fb91a830ea29c2dce7d13f9a9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of Symbolic Logic}
+      \field{number}{3}
+      \field{title}{Turing computations on ordinals}
+      \field{volume}{11}
+      \field{year}{2005}
+      \field{pages}{377\bibrangedash 397}
+      \range{pages}{21}
+    \endentry
+    \entry{koepke2}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ec170b6fb91a830ea29c2dce7d13f9a9}{%
+           family={Koepke},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ed5dca6d189d9b01a8cc928c597bb87c}{%
+           family={Koerwien},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e482e32fc43d33175a061eb5463f5ea5}
+      \strng{fullhash}{e482e32fc43d33175a061eb5463f5ea5}
+      \strng{bibnamehash}{e482e32fc43d33175a061eb5463f5ea5}
+      \strng{authorbibnamehash}{e482e32fc43d33175a061eb5463f5ea5}
+      \strng{authornamehash}{e482e32fc43d33175a061eb5463f5ea5}
+      \strng{authorfullhash}{e482e32fc43d33175a061eb5463f5ea5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Structures in Computer Science}
+      \field{number}{5}
+      \field{title}{Ordinal computations}
+      \field{volume}{16}
+      \field{year}{2006}
+      \field{pages}{867\bibrangedash 884}
+      \range{pages}{18}
+    \endentry
+    \entry{kunen}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9bbbc8091281c78067693611cdfae8a1}{%
+           family={Kunen},
+           familyi={K\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {College Publications, London}%
+      }
+      \strng{namehash}{9bbbc8091281c78067693611cdfae8a1}
+      \strng{fullhash}{9bbbc8091281c78067693611cdfae8a1}
+      \strng{bibnamehash}{9bbbc8091281c78067693611cdfae8a1}
+      \strng{authorbibnamehash}{9bbbc8091281c78067693611cdfae8a1}
+      \strng{authornamehash}{9bbbc8091281c78067693611cdfae8a1}
+      \strng{authorfullhash}{9bbbc8091281c78067693611cdfae8a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-84890-050-9}
+      \field{series}{Studies in Logic (London)}
+      \field{title}{Set theory}
+      \field{volume}{34}
+      \field{year}{2011}
+      \field{pages}{viii+401}
+      \range{pages}{-1}
+    \endentry
+    \entry{sackserec}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ddbf657eaaac05567ddfbcb38603aac7}{%
+           family={Sacks},
+           familyi={S\bibinitperiod},
+           given={GE},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{ddbf657eaaac05567ddfbcb38603aac7}
+      \strng{fullhash}{ddbf657eaaac05567ddfbcb38603aac7}
+      \strng{bibnamehash}{ddbf657eaaac05567ddfbcb38603aac7}
+      \strng{authorbibnamehash}{ddbf657eaaac05567ddfbcb38603aac7}
+      \strng{authornamehash}{ddbf657eaaac05567ddfbcb38603aac7}
+      \strng{authorfullhash}{ddbf657eaaac05567ddfbcb38603aac7}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Effective Mathematics of the Uncountable}
+      \field{title}{E-recursive intuitions}
+      \field{year}{2013}
+      \field{pages}{135\bibrangedash 149}
+      \range{pages}{15}
+    \endentry
+    \entry{sacks}{book}{}
+      \name{author}{1}{}{%
+        {{hash=227b74c2ef35ef2de30d1af50e56c315}{%
+           family={Sacks},
+           familyi={S\bibinitperiod},
+           given={Gerald\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{227b74c2ef35ef2de30d1af50e56c315}
+      \strng{fullhash}{227b74c2ef35ef2de30d1af50e56c315}
+      \strng{bibnamehash}{227b74c2ef35ef2de30d1af50e56c315}
+      \strng{authorbibnamehash}{227b74c2ef35ef2de30d1af50e56c315}
+      \strng{authornamehash}{227b74c2ef35ef2de30d1af50e56c315}
+      \strng{authorfullhash}{227b74c2ef35ef2de30d1af50e56c315}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Higher recursion theory}
+      \field{volume}{2}
+      \field{year}{2017}
+    \endentry
+    \entry{myself}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c312cbf964a9f81bebf7230c6637a56b}{%
+           family={Lau},
+           familyi={L\bibinitperiod},
+           given={Desmond},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c312cbf964a9f81bebf7230c6637a56b}
+      \strng{fullhash}{c312cbf964a9f81bebf7230c6637a56b}
+      \strng{bibnamehash}{c312cbf964a9f81bebf7230c6637a56b}
+      \strng{authorbibnamehash}{c312cbf964a9f81bebf7230c6637a56b}
+      \strng{authornamehash}{c312cbf964a9f81bebf7230c6637a56b}
+      \strng{authorfullhash}{c312cbf964a9f81bebf7230c6637a56b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{math.LO}
+      \field{eprinttype}{arXiv}
+      \field{title}{Forcing with Language Fragments, Extending Namba Forcing, and Models of Theories with Constraints in Interpretation}
+      \field{year}{2024}
+      \verb{eprint}
+      \verb 2402.01213
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
